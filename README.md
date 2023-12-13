@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohanSleeckx
 - 👀 I’m interested in security
 - 🌱 I’m currently learning for the AZ-700
-- 💞️ I’m looking to collaborate on Azure, Security, genAI, Enterprise Archtitecture, ...
+- 💞️ I’m looking to collaborate on Azure, Security, genAI, Enterprise Architecture, ...
 - 📫 Please find me on LinkedIn https://www.linkedin.com/in/johans/
 
 <!---
